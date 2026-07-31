@@ -65,22 +65,22 @@ The receiving Arduino interprets the command and controls the motors using the L
 
 ## 📂 Project Structure
 
+```text
 Gesture-Controlled-Car/
 │
 ├── transmitter/
-│   └── Transmitter.ino
+│   └── Transmitter.ino          # Arduino code for gesture transmitter
 │
 ├── receiver/
-│   └── Receiver.ino
+│   └── Receiver.ino             # Arduino code for car receiver
 │
 ├── images/
-│   ├── circuit_diagram.png
-│    └──   robot.jpg    
+│   ├── circuit_diagram.png      # Circuit connections
+│   └── robot.jpg                # Project image
 │
-│ 
-├── README.md
-└── LICENSE
-
+├── README.md                    # Project documentation
+└── LICENSE                      # MIT License
+```
 
 ```
 
@@ -88,7 +88,9 @@ Gesture-Controlled-Car/
 ## 📂 Project Images
 
 https://github.com/Abhiavs/Gesture-Controlled-Car/blob/main/Receiver%20and%20Transmitter.jpg?raw=true
+
 https://github.com/Abhiavs/Gesture-Controlled-Car/blob/main/Transmitter%20Circuit%20.png?raw=true
+
 https://github.com/Abhiavs/Gesture-Controlled-Car/blob/main/Receiver%20Circuit%20.png?raw=true
 ---
 
